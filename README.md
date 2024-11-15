@@ -1,8 +1,9 @@
 # app-dev
+
 **My Favorites Movies/Series**
-*How To Train Your Dragon*
-*Howl's Moving Castle*
-*Rise of the Guardians*
-*Empress Ki*
-*Conjuring*
-*As Above so Below*
+1. *How To Train Your Dragon*
+2. *Howl's Moving Castle*
+3. *Rise of the Guardians*
+4. *Empress Ki*
+5. *Conjuring*
+6. *As Above so Below*
