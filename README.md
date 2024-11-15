@@ -1,5 +1,4 @@
 # app-dev
-
 **My Favorites Movies/Series**
 1. *How To Train Your Dragon*
 2. *Howl's Moving Castle*
