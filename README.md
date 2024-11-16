@@ -1,4 +1,3 @@
-
 # **My Favorites Movies/Series**
 
 1. *How To Train Your Dragon*
